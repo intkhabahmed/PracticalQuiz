@@ -5,4 +5,7 @@
     <string name="email">Email</string>
     <string name="description">Describe yourself</string>
     <string name="next">Next</string>
+    <string name="demo_username">DemoUserName</string>
+    <string name="demo_email">DemoEmail</string>
+    <string name="demo_detail">This is the demo description and will be replaced with original one</string>
 </resources>
