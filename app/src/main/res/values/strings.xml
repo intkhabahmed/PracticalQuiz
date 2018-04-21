@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PracticalQuiz</string>
+    <string name="user_account">User Account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="description">Describe yourself</string>
+    <string name="next">Next</string>
 </resources>
